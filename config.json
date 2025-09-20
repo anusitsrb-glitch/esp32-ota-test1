@@ -1,5 +1,4 @@
 {
-  "version": "9",
-  "firmware_url": "https://raw.githubusercontent.com/anusitsrb-glitch/esp32-ota-test1/main/TestOTA_GITHUB_12.ino.bin"
-
+  "version": "10",
+  "firmware_url": "https://raw.githubusercontent.com/anusitsrb-glitch/esp32-ota-test1/main/TestOTA_GITHUB_10.bin"
 }
